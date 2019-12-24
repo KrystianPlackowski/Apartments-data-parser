@@ -1,6 +1,6 @@
 # Flat-for-rental-parser
 
-Extract data from well-known flat rental site and make analysis out of it (work in progress).
+Extract data from well-known flat rental web site and make analysis out of it (work in progress).
 
 First run `extract_apart_data.ipynb` and `extract_metro_data.ipynb` notebooks to create `apartaments.csv` and `metro.csv` files, wchich are further processed in `analyse.ipynb`.
 
