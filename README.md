@@ -7,3 +7,6 @@ First run `extract_apart_data.ipynb` and `extract_metro_data.ipynb` notebooks to
 `extract_apart_data.ipynb` extracts apartaments data from the site to .csv file
 
 `extract_metro_data.ipynb` returns .csv file of list of Warsaw metro stations with their geographic locations
+
+geojson source:
+https://zikit.carto.com/tables/warszawa_dzielnice/public/map
