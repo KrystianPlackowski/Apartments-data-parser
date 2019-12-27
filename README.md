@@ -19,7 +19,7 @@ What provided notebook files actually do:
 
 `extract_metro_data.ipynb` returns .csv file of list of Warsaw metro stations with their geographic locations
 
-`encode_travel_time.ipynb` encodes `travel times` from locations of apartaments to city center point (PKiN) using `public transport`.
+`encode_travel_time.ipynb` encodes travel times from locations of apartaments to city center point (PKiN) using public transport
 
 geojson source:
 https://zikit.carto.com/tables/warszawa_dzielnice/public/map
