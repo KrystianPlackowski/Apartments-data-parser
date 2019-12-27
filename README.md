@@ -13,6 +13,8 @@ If want to analyse already prepared data:
 - Run `analyse.ipynb` with provided `apartaments.csv` and `metro.csv` files to further processed them. 
 
 
+What provided notebook files actually do:
+
 `extract_apart_data.ipynb` extracts apartaments data from the site to .csv file
 
 `extract_metro_data.ipynb` returns .csv file of list of Warsaw metro stations with their geographic locations
