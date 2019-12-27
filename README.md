@@ -1,6 +1,6 @@
 # Flat-for-rental-parser
 
-Extract data from well-known flat rental web site and make analysis out of it (work in progress).
+Extract data from well-known flat rental web site and make analysis out of it.
 
 
 If want to extract new data:
