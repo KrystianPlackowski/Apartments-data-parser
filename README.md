@@ -8,7 +8,7 @@ If want to extract new data:
 - First run `extract_apart_data.ipynb` and `extract_metro_data.ipynb` notebooks to create `apartaments.csv` and `metro.csv` files.
 - Secondly run `encode_travel_time.ipynb` to alter `apartaments.csv` by one additional column.
 
-If want to analyse already prepared data:
+If want to analyse already prepared data (doesn't have sensitive informations):
 
 - Run `analyse.ipynb` with provided `apartaments.csv` and `metro.csv` files to further processed them. 
 
