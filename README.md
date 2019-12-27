@@ -24,5 +24,5 @@ What provided notebook files actually do:
 geojson source:
 https://zikit.carto.com/tables/warszawa_dzielnice/public/map
 
-api provider site (free registration):
+api provider site for travel time encoding (free registration):
 https://developer.here.com/
