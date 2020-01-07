@@ -1,6 +1,6 @@
 # Flat-for-rental-parser
 
-Extract data from well-known flat rental web site and make analysis out of it.
+Extract data from well-known flat advertisement web site and make analysis out of it.
 
 
 If want to extract new data:
@@ -15,7 +15,7 @@ If want to analyse already prepared data (doesn't have sensitive informations):
 
 What provided notebook files actually do:
 
-`extract_apart_data.ipynb` extracts apartaments data from the site to .csv file
+`extract_apart_data.ipynb` extracts apartaments data from the site to .csv file. **The data concerns only rental offers**
 
 `extract_metro_data.ipynb` returns .csv file of list of Warsaw metro stations with their geographic locations
 
