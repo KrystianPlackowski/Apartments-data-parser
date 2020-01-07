@@ -10,7 +10,7 @@ If want to extract new data:
 
 If want to analyse already prepared data (doesn't have sensitive informations):
 
-- Run `analyse.ipynb` with provided `apartaments.csv` and `metro.csv` files to further processed them. 
+- Run `analyse.ipynb` with provided `apartaments.csv` and `metro.csv` files to further processed them. *Prepared data was collected on 25.12.19*
 
 
 What provided notebook files actually do:
