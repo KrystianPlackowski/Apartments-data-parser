@@ -1,7 +1,7 @@
 # Flat-data-parser
 Extract data from flat advertisement web site and analyse it.
 
-Both subfolders containt strictly similar code with slightly different data source.
+Both subfolders containt strictly similar code with slightly different data source. Biggest differences in code between files `analyse.ipynb` in `sale` subfolder in comparision to file with the same name from `rental` subfolder are marked with red color or are crossed.
 
 ## rental
 In this subfolder analysis is performed on `rental flat offers` (average prices in range 1500-5000 zł per flat).
