@@ -10,4 +10,4 @@ In this subfolder analysis is performed on `rental flat offers` (average prices 
 In this subfolder analysis is performed on `sale flat offers` (average prices in range 250.000-1.000.000 zł per flat).
 
 ## predict_price
-This subfolder uses pickled `mashine learning algorithms` learned in `rental`'s and `sale`'s `analyse.ipynb` file to experimentaly predict rental or sale prices on hand-typed data. Pickle files has to be first computed by running listed `analyse.ipynb` files.
+This subfolder uses pickled `mashine learning algorithms`, which can be learned by first running files `analyse.ipynb` from `rental` and `sale` subfolders. The goal of the algorithm is to experimentaly predict rental or sale prices using hand-typed data.
