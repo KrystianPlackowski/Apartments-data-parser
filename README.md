@@ -10,4 +10,4 @@ In this subfolder analysis is performed on `rental flat offers` (average prices 
 In this subfolder analysis is performed on `sale flat offers` (average prices in range 250.000-1.000.000 zł per flat).
 
 ## predict_price
-This subfolder uses pickled `mashine learning algorithms`, which can be learned by first running files `analyse.ipynb` from `rental` and `sale` subfolders. The goal of the algorithm is to experimentaly predict rental or sale prices using hand-typed data.
+This subfolder uses pickled `mashine learning algorithms`, which can be learned by first running files `analyse.ipynb` from `rental` and `sale` subfolders. The goal of the algorithm is to predict rental or sale prices of apartaments. **Interactive data typing is already supported.**
