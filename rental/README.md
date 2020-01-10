@@ -1,4 +1,4 @@
-# Flat-for-rental-parser
+# Apartments-for-rental-parser
 
 Extract data from well-known flat advertisement web site and make analysis out of it.
 
