@@ -1,4 +1,4 @@
-# Flat-data-parser
+# Apartments-data-parser
 Extract data from flat advertisement web site and analyse it.
 
 Both subfolders `rental` and `sale` containt strictly similar code with slightly different data source. Biggest differences in code between files `analyse.ipynb` in `sale` subfolder in comparision to file with the same name from `rental` subfolder are marked with red color or are crossed.
